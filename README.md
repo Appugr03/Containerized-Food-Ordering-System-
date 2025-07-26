@@ -10,6 +10,8 @@ This is the homepage of Foodie Hub, a simple and responsive food ordering websit
 Clean and user-friendly design
 
 Navigation links: Home, About, Menu, Book a Table, Login
+<img width="1915" height="991" alt="image" src="https://github.com/user-attachments/assets/b37b101e-0049-4d6e-9d61-39dfeac1a4db" />
+
 
 Attractive hero section with a welcome message and Order Now button
 
